@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'angular.io jenkins-x kickstart';
+  title = 'angular.io jenkins-x kickstart - preview env';
 }
